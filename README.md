@@ -10,13 +10,12 @@ Eu so Jonatas Cavalcanti, sou um Progrmador Front End, atualmente estou aprenden
   :mailbox: How to reach me:jonatascavalcanti03@gmail.com
 
 <br/>
- Conecte-se comigo:
 
- <p>
- <a href="https://www.instagram.com/jonatas.cavalcanti3/">
-<img 
-   
- </p>
+[![Jonatas Stats](https://github-readme-stats.vercel.app/api?username=jonatascavalcanti03)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascavalcanti03)](https://github.com/anuraghazra/github-readme-stats)
+
+
  
 
  
