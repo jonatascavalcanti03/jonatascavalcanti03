@@ -4,7 +4,8 @@ Desenvolvedora Full‑Stack em formação. Aqui estão meus projetos, tecnologia
 
 ## Sobre mim
 
-Me chamo  Jonatas Cavalcanti, sou do Brasilia e estudo Análise e Desenvolvimento de Sistemas na UDF.  Gosto de criar projetos web .
+Me chamo  Jonatas Cavalcanti, sou do Brasilia e estudo Análise e Desenvolvimento de Sistemas na 
+UDF Centro Universitário.  Gosto de criar projetos web .
 
 
 - Linkdin: https://www.linkedin.com/in/jonatas-dev-570794304/
