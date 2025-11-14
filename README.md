@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Olá — Jonatas Cavalcanti
 
-Desenvolvedora Full‑Stack em formação. Aqui estão meus projetos, tecnologias que uso e formas de contato.
+Desenvolvedor Full‑Stack em formação. Aqui estão meus projetos, tecnologias que uso e formas de contato.
 
 ## Sobre mim
 
