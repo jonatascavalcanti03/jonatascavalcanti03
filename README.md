@@ -2,7 +2,7 @@
 
 [![](https://komarev.com/ghpvc/?username=jonatascavalcanti03&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jonatascavalcanti03)
 
-![Portfolio homepage](file:///C:/Users/55619/.gemini/antigravity/brain/7f2bc2e2-8bd7-4fc5-b737-2972bb3fd9dd/portfolio_homepage_1763940462859.png)
+
 
 ## 📍 Localização & Contato
 - **Cidade:** Brasília, DF
@@ -30,7 +30,7 @@ Desenvolvedora Full‑Stack em formação, cursando **Análise e Desenvolvimento
 Desenvolvimento completo do front‑end para uma escola fictícia, com foco em usabilidade, design informativo e responsividade (mobile‑first).
 **Tecnologias:** HTML, CSS, JavaScript.
 
-![Aquarela demo](file:///C:/Users/55619/.gemini/antigravity/brain/7f2bc2e2-8bd7-4fc5-b737-2972bb3fd9dd/aquarela_demo_1763940444023.png)
+
 
 ### TechFlow (Trabalho Acadêmico) – [GitHub](https://github.com/jonatascavalcanti03/techflow)
 Simulação de uma plataforma de notícias de tecnologia, com design limpo e acessibilidade.
