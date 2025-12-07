@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Jonatas Cavalcanti – Desenvolvedora Full‑Stack em Formação
+# 👨🏾‍💻 Jonatas Cavalcanti – Desenvolvedor  Full‑Stack em Formação
 
 [![](https://komarev.com/ghpvc/?username=jonatascavalcanti03&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jonatascavalcanti03)
 
