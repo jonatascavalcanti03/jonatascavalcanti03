@@ -13,7 +13,7 @@
 - **Portfólio:** [jonatascavalcanti03.github.io/meu-portfolio](https://jonatascavalcanti03.github.io/meu-portfolio/)
 
 ## 📝 Resumo Profissional
-Desenvolvedora Full‑Stack em formação, cursando **Análise e Desenvolvimento de Sistemas** (UDF). Tenho foco em desenvolvimento web (HTML, CSS, JavaScript, PHP e Python) e controle de versão (Git/GitHub). Também atuo em infraestrutura e segurança de redes (CCNA1 em andamento) e possuo certificações em **Inteligência Artificial** (Google) e **Cibersegurança** (Cisco). Busco minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos em soluções web completas, seguras e inovadoras.
+Desenvolvedor Full‑Stack em formação, cursando **Análise e Desenvolvimento de Sistemas** (UDF). Tenho foco em desenvolvimento web (HTML, CSS, JavaScript, PHP e Python) e controle de versão (Git/GitHub). Também atuo em infraestrutura e segurança de redes (CCNA1 em andamento) e possuo certificações em **Inteligência Artificial** (Google) e **Cibersegurança** (Cisco). Busco minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos em soluções web completas, seguras e inovadoras.
 
 ## 🛠️ Habilidades Técnicas
 | Área | Tecnologias |
