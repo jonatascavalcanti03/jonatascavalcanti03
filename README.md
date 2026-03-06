@@ -1,79 +1,98 @@
-# 👨🏾‍💻 Jonatas Cavalcanti – Desenvolvedor  Full‑Stack em Formação
+# 👨🏾‍💻 Jonatas Cavalcanti — Desenvolvedor Front-End Júnior
 
-[![](https://komarev.com/ghpvc/?username=jonatascavalcanti03&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jonatascavalcanti03)
-
-
-
-## 📍 Localização & Contato
-- **Cidade:** Brasília, DF
-- **E‑mail:** jonatascavalcanti03@gmail.com
-- **Telefone:** (61) 98241‑9284
-- **LinkedIn:** [linkedin.com/in/jonatas‑dev‑570794304](https://www.linkedin.com/in/jonatas-dev-570794304/)
-- **GitHub:** [github.com/jonatascavalcanti03](https://github.com/jonatascavalcanti03)
-- **Portfólio:** [jonatascavalcanti03.github.io/meu-portfolio](https://jonatascavalcanti03.github.io/meu-portfolio/)
-
-## 📝 Resumo Profissional
-Desenvolvedor Full‑Stack em formação, cursando **Análise e Desenvolvimento de Sistemas** (UDF). Tenho foco em desenvolvimento web (HTML, CSS, JavaScript, PHP e Python) e controle de versão (Git/GitHub). Também atuo em infraestrutura e segurança de redes (CCNA1 em andamento) e possuo certificações em **Inteligência Artificial** (Google) e **Cibersegurança** (Cisco). Busco minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos em soluções web completas, seguras e inovadoras.
-
-## 🛠️ Habilidades Técnicas
-| Área | Tecnologias |
-|------|-------------|
-| **Controle de Versão** | Git, GitHub |
-| **Front‑end** | HTML, CSS, JavaScript, Bootstrap |
-| **Back‑end** | PHP, Python |
-| **Infraestrutura / Redes** | CCNA1 (Cisco Networking Academy) |
-| **IA & Produtividade** | Prompt Engineering, Introdução à IA |
-| **Em Formação** | SQL, Node.js, Flask, Django |
-
-## 📂 Projetos Relevantes
-### Aquarela (Trabalho Acadêmico) – [GitHub](https://github.com/jonatascavalcanti03/aquarela)
-Desenvolvimento completo do front‑end para uma escola fictícia, com foco em usabilidade, design informativo e responsividade (mobile‑first).
-**Tecnologias:** HTML, CSS, JavaScript.
-
-
-
-### TechFlow (Trabalho Acadêmico) – [GitHub](https://github.com/jonatascavalcanti03/techflow)
-Simulação de uma plataforma de notícias de tecnologia, com design limpo e acessibilidade.
-**Tecnologias:** HTML, CSS, Bootstrap.
-
-*(Imagem do projeto pode ser adicionada posteriormente.)*
-
-## 🎓 Educação
-- **Análise e Desenvolvimento de Sistemas – UDF Centro Universitário** (Conclusão prevista: 2027)
-
-## 📜 Certificações & Qualificações
-- Cisco Networking Academy – **CCNA1** (Em andamento)
-- **Cyber Threat Management** – Set/2025
-- **Network Technician Career Path** – Set/2025
-- **Networking Academy Learn‑A‑Thon 2025** – Set/2025
-- Google – **Descubra a Arte do Prompt** – Out/2025
-- Google – **Introdução à IA** – Set/2025
-- United Latino Students Association – **Maximizar a Produtividade com Ferramentas de IA** – Set/2025
+[![Perfil no GitHub](https://komarev.com/ghpvc/?username=jonatascavalcanti03&label=Perfil%20no%20GitHub&color=0e75b6&style=flat)](https://github.com/jonatascavalcanti03)
 
 ---
 
-## 🤖 Tecnologias & Ferramentas
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<br/><br/>
-Principais ferramentas e linguagens que uso com frequência:
-- HTML, CSS, JavaScript, Bootstrap, PHP, Python, Git
+## Olá! Eu sou o Jonatas 👋
+
+Apaixonado por tecnologia e design, estou em transição de carreira para Desenvolvedor Front-End. Com uma base sólida em HTML, CSS e JavaScript, estou construindo interfaces que não só funcionam, mas encantam. Em constante aprendizado, atualmente mergulho em React.js e melhores práticas para criar experiências digitais acessíveis, responsivas e intuitivas.
+
+Minha trajetória inclui 8 anos de experiência no varejo, onde desenvolvi habilidades essenciais como comunicação, proatividade e trabalho em equipe. Agora, aplico essas competências para construir soluções web que fazem a diferença.
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatascavalcanti03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascavalcanti03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+## 📬 Vamos nos conectar?
+
+- 📍 Brasília, DF  
+
+- ✉️ [jonatascavalcanti03@gmail.com](mailto:jonatascavalcanti03@gmail.com)  
+
+- 📞 (61) 98241-9284  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jonatascavalcanti)  
+
+- 💻 [Portfólio](https://jonatascavalcanti03.github.io/meu-portfolio/)  
+
+- 🐙 [GitHub](https://github.com/jonatascavalcanti03)  
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedruhen/pedruhen/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedruhen/pedruhen/output/pacman-contribution-graph.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedruhen/pedruhen/output/pacman-contribution-graph.svg"/>
-</picture>
+## 🚀 Minha Caixa de Ferramentas
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+<img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="VS Code" title="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+</div>
+
+---
+
+## 📚 Formação & Certificações
+
+- 🎓 Análise e Desenvolvimento de Sistemas – UDF (2027)  
+
+- 🏅 Descubra a Arte do Prompting – Google (Out/2025)  
+
+- 🏅 Network Technician Career Path – Cisco (Set/2025)  
+
+- 🏅 Networking Academy Learn-A-Thon 2025 – Cisco (Set/2025)  
+
+- 🏅 Maximizar a Produtividade com Ferramentas de IA – ULSA (Set/2025)  
+
+- 🏅 Introdução à Inteligência Artificial – Google (Set/2025)  
+
+- 🏅 Cyber Threat Management – Cisco (Set/2025)  
+
+---
+
+## 💡 Projetos que me orgulham
+
+### [Escola Aquarela – Landing Page](https://github.com/jonatascavalcanti03/aquarela)  
+Uma landing page responsiva e acessível para uma escola fictícia, com menus interativos e design clean.  
+### Tecnologias HTML5, CSS3, JavaScript, Bootstrap 5
+
+---
+
+### [App Controle Financeiro](https://github.com/jonatascavalcanti03/app-controle-financeiro)  
+Aplicação prática para controle financeiro pessoal com funcionalidades básicas de CRUD e manipulação do DOM.  
+### Tecnologias JavaScript, HTML5, CSS3
+
+---
+
+## 💼 Experiência Profissional
+
+**Operador de Loja 2 – Rede Pão de Açúcar (em andamento)**  
+Atendimento ao cliente, resolução de problemas, organização e controle de estoque.  
+Aqui aprimorei minha disciplina, comunicação e espírito colaborativo — habilidades que aplico no desenvolvimento Front-End.
+
+---
+
+## 🌱 Estou aprendendo
+
+- React.js (Avançando rapidamente)  
+
+- SEO avançado e acessibilidade digital  
+
+- Testes automatizados para front-end  
+
+---
+
+### Quer me ajudar a crescer?  
+Se gostou do meu trabalho, deixe uma estrela ⭐ nos meus projetos ou abra um Pull Request — colaboração é o caminho para a evolução!
